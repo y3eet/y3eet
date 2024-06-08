@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/y3eet/y3eet/main/bohcci-wp.jpg');]{x0000}$}
 -->
+<div style="width: 100px; height: 100px;">
+  <img src="/bocchi-wp.jpg" alt="Bocchi WP" style="width: 100%; height: 100%; object-fit: contain;"/>
+</div>
