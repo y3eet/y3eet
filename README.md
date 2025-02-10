@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 <div style="width: 100px; height: 100px;">
 <!--  <img src="/lain.gif" alt="lain" style="width: 100%; height: 100%; object-fit: contain;"/>-->
-  <img src="https://ayt0wp7ehx.ufs.sh/f/LxzrPQylUVETVE3mI9Lc4jJv0hM1XiF5ekD8APrUmNubTawE" alt="lain" style="width: 100%; height: 100%; object-fit: contain;"/>
+<!--   <img src="https://ayt0wp7ehx.ufs.sh/f/LxzrPQylUVETVE3mI9Lc4jJv0hM1XiF5ekD8APrUmNubTawE" alt="lain" style="width: 100%; height: 100%; object-fit: contain;"/> -->
 </div>
