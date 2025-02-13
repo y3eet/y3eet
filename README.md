@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/y3eet/y3eet/main/bohcci-wp.jpg');]{x0000}$}
 -->
-<div style="width: 100px; height: 100px;">
+<div style="width: 100px; height: 100px; display: flex; justify-content: center; align-items: center;">
 <!--  <img src="/lain.gif" alt="lain" style="width: 100%; height: 100%; object-fit: contain;"/>-->
    <img src="/kita.gif" alt="kita" style="width: 100%; height: 100%; object-fit: contain;"/>
 <!--   <img src="https://ayt0wp7ehx.ufs.sh/f/LxzrPQylUVETVE3mI9Lc4jJv0hM1XiF5ekD8APrUmNubTawE" alt="lain" style="width: 100%; height: 100%; object-fit: contain;"/> -->
